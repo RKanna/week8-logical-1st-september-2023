@@ -1,0 +1,16 @@
+body {
+  height: 100rem;
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#btn {
+  margin-top: 100rem;
+  padding: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
